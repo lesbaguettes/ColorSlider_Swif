@@ -10,31 +10,31 @@
 	<string>ColorSlider</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>2C89DE1EC0E29DD18660046FF19287289F0AC216</key>
-		<string>https://github.com/lesbaguettes/swift_colorslider.git</string>
+		<key>1D0BF7333381C4D22BD4B5C1905F237C33E97EF4</key>
+		<string>https://github.com/lesbaguettes/ColorSlider_Swift.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ColorSlider/ColorSlider.xcodeproj</string>
+	<string>ColorSlider.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>2C89DE1EC0E29DD18660046FF19287289F0AC216</key>
-		<string>../../..</string>
+		<key>1D0BF7333381C4D22BD4B5C1905F237C33E97EF4</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/lesbaguettes/swift_colorslider.git</string>
+	<string>https://github.com/lesbaguettes/ColorSlider_Swift.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>2C89DE1EC0E29DD18660046FF19287289F0AC216</string>
+	<string>1D0BF7333381C4D22BD4B5C1905F237C33E97EF4</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>2C89DE1EC0E29DD18660046FF19287289F0AC216</string>
+			<string>1D0BF7333381C4D22BD4B5C1905F237C33E97EF4</string>
 			<key>IDESourceControlWCCName</key>
-			<string>swift_colorslider</string>
+			<string>ColorSlider_Swift</string>
 		</dict>
 	</array>
 </dict>

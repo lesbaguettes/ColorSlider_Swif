@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
-//  homework1
+//  ColorSlider
 //
-//  Created by 최완택 on 2015. 3. 18..
-//  Copyright (c) 2015년 eh-iphone. All rights reserved.
+//  Created by Choe Wantaek on 2015. 3. 31..
+//  Copyright (c) 2015년 kpu. All rights reserved.
 //
 
 import UIKit
